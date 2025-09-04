@@ -1,1 +1,1 @@
-import './bootstrap';
+// Basic JS file for Laravel API
